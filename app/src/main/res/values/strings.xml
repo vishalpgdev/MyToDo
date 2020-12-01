@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Work</string>
+    <string name="updateactivity">Add or Updated Work</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="completed">Completed</string>
+    <string name="btnSave">Save</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+    <string name="todo">TODO</string>
+
+</resources>
